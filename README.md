@@ -1,5 +1,11 @@
-# Aplicativo Android Cadastro de Jogadores de Futebol
+# Aplicativo Android - Cadastro de Jogadores de Futebol
+## Programa feito utilizando Android Studio e Java para a disciplina de   Dispositivos Móveis e Embarcados no Centro Universitário da Zona Oeste.
+<br>
 
-## AV1 e AV2 da disciplina de Dispositivos Móveis da UEZO. 
+Programa baseado em CRUD, utilizando Banco de Dados (SQLlite)
+* C -> Create
+* R -> Read
+* U -> Update
+* D -> Delete
 
-### Programa feito utilizando Android Studio juntamente com a linguagem Java.
+Os registros são todos feitos num arquivo .db local. 
