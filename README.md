@@ -2,7 +2,7 @@
 ## Programa feito utilizando Android Studio e Java para a disciplina de   Dispositivos Móveis e Embarcados no Centro Universitário da Zona Oeste.
 <br>
 
-Programa baseado em CRUD, utilizando Banco de Dados (SQLlite)
+Programa usando conceitos de CRUD, utilizando Banco de Dados (SQLlite)
 * C -> Create
 * R -> Read
 * U -> Update
